@@ -16,6 +16,8 @@ I'm passionate about robotics - I'm currently the Lead Programmer for [FRC (FIRS
 
 Additional technologies I'm familiar with include Linux/Bash, Windows/Batch, C/C++, and Docker.
 
+### Project Portfolio
+
 <a href="https://github.com/Starlight220/ActionsKtLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Starlight220&repo=ActionsKtLib&theme=synthwave" />
 </a>
