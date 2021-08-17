@@ -1,5 +1,5 @@
 ### Hi!
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Starlight220.Starlight220)
 <img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=starlight220&show_icons=true&theme=synthwave&hide=stars" align="right" />
 
 I'm a developer who thinks that functional programming and lambdas are cool, and tries to avoid [cargo cult programming](https://en.wikipedia.org/wiki/Cargo_cult_programming). I'm mostly self-taught, supplemented by courses at the Open University of Israel. I've also learned a lot by regularly contributing to open-source, and I'm always happy to learn more!
